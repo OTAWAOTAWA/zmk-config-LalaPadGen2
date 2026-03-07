@@ -124,9 +124,9 @@
 
         kigo {
             bindings = <
-&kp JP_AT  &kp JP_LBRACE  &kp JP_RBRACE    &kp JP_LPAREN  &kp JP_RPAREN                  &kp JP_CARET    &kp EXCLAMATION  &kp PIPE     &kp GRAVE  &trans
-&kp HASH     &kp JP_QUOTE         &kp JP_DQUOTE  &kp JP_LBRACKET              &kp JP_RBRACKET                               &kp PERCENT  &kp AMPERSAND    &kp TILDE    &kp UP     &kp UNDERSCORE
-&kp DOLLAR   &kp JP_COLON       &kp SEMI           &kp LESS_THAN         &kp GREATER_THAN                       &kp FSLH     &kp BSLH         &kp LEFT     &kp DOWN   &kp RIGHT
+&kp JP_AT  &kp JP_LBRACE  &kp JP_RBRACE    &kp JP_LPAREN  &kp JP_RPAREN                  &kp JP_CARET    &kp EXCLAMATION  &kp JP_PIPE     &kp JP_BACKQUOTE  &trans
+&kp HASH     &kp JP_QUOTE         &kp JP_DQUOTE  &kp JP_LBRACKET              &kp JP_RBRACKET                               &kp PERCENT  &kp JP_AMPERSAND    &kp JP_TILDE    &kp UP     &kp JP_UNDERSCORE
+&kp DOLLAR   &kp JP_COLON       &kp SEMI           &kp LESS_THAN         &kp GREATER_THAN                       &kp FSLH     &kp JP_YEN         &kp LEFT     &kp DOWN   &kp RIGHT
 &trans       &trans          &trans             &trans                &trans                 &trans  &trans  &trans       &trans           &trans       &trans     &trans
              &trans          &kp RIGHT          &kp DOWN              &kp LEFT               &kp UP  &kp UP  &kp LEFT     &kp DOWN         &kp RIGHT    &trans
 &mkp MB1     &mkp MB2        &mkp MB3                                                                                                      &mkp MB1     &mkp MB2   &mkp MB3
