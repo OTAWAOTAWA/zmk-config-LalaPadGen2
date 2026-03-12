@@ -6,6 +6,8 @@ manifest:
       url-base: https://github.com/ShiniNet/
     - name: caksoylar
       url-base: https://github.com/caksoylar
+    - name: prospector
+      url-base: https://github.com/t-ogura
   projects:
     - name: zmk
       remote: zmkfirmware
@@ -20,5 +22,9 @@ manifest:
     - name: zmk-rgbled-widget
       remote: caksoylar
       revision: v0.3
+    - name: prospector-zmk-module
+      remote: prospector
+      revision: v2.0.0  # Use specific version tag
+      path: modules/prospector-zmk-module
   self:
     path: config
