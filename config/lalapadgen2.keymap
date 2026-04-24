@@ -94,7 +94,7 @@
 &kp A      &kp S           &kp D         &kp F             &kp G                                     &kp H      &kp J             &kp K        &kp L         &kp MINUS
 &kp Z      &kp X           &kp C         &kp V             &kp B                                     &kp N      &kp M             &kp COMMA    &kp PERIOD    &kp QUESTION
 &kp LCTRL  &kp LEFT_SHIFT  &kp LEFT_ALT  &lt 1 LANGUAGE_2  &kp SPACE  &lt 1 DELETE  &lt 2 BACKSPACE  &kp ENTER  &lt 2 LANGUAGE_1  &kp TAB      &kp LEFT_GUI  &kp ESCAPE
-           &to 3           &kp RIGHT     &kp DOWN          &kp LEFT   &kp UP        &kp UP           &kp LEFT   &kp DOWN          &kp RIGHT    &none
+           &mo 3           &kp RIGHT     &kp DOWN          &kp LEFT   &kp UP        &kp UP           &kp LEFT   &kp DOWN          &kp RIGHT    &none
 &mkp MB1   &mkp MB2        &mkp MB3                                                                                               &mkp MB1     &mkp MB2      &mkp MB3
 &mkp MB4   &mkp MB5        &kp LG(TAB)   &kp LG(D)         &kp LCTRL                                 &mkp MB4   &mkp MB5          &kp LG(TAB)  &kp LG(D)     &kp LCTRL
             >;
